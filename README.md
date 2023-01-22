@@ -13,7 +13,7 @@ This script is designed to automate the process of setting up a fresh Windows in
 - Visual Studio Code
 - Python
 - Chrome
-  etc.
+- etc.
 
 ## Installation
 
